@@ -3,16 +3,17 @@
 - - -
 #### Monday April 10, 2017
 * **Goals**:
-* **Accomplishments**:
+	* ~~Finish gift cards modelling for Merchant Data Warehouse.~~
+	* Start on other data projects.
 * **Feedback**:
 	1. When you expose a schema vs a report to the consumers it's very different.  
-		* Reportify:
+		* Reportify:  
     		You are only exposing the final product so data can't be as raw.  
             Ex. **type** column in the model can be *lowercase* but in reportify it should be *uppercase*. 
-		* Merchant Data Warehouse:
+		* Merchant Data Warehouse:  
 			You are exposing the raw models to the merchants, therefore you should think about how you would use these models to build the reportify reports.  
             Ex. you should keep **datetimes** in *UTC* time instead of shop timezone. This is how you would see them in the database.  
-            
+	For next time you can keep the logic in first layer (starscream) the same, but when you expose the schema in reportify or in the UI layer you can reference it differently.
 	2. Writing better documentation for github PRs. More to the point and descriptive. 
  
 	**What are you trying to accomplish with this PR?**  
