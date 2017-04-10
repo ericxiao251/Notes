@@ -5,6 +5,8 @@
 * **Goals**:
 	* ~~Finish gift cards modelling for Merchant Data Warehouse.~~
 	* Start on other data projects.
+* **Accomplishments**:
+	* Went through a clustering and regression modelling tutorial in python.
 * **Feedback**:
 	1. When you expose a schema vs a report to the consumers it's very different.  
 		* Reportify:  
