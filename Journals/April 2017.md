@@ -24,10 +24,23 @@
 	**How is this accomplished?**  
 This PR creates a new model, **gift_card_transactions__daily_rollup**, which unions the following stages from gift_card_transactions, and then aggregates on a per day granularity. Dates with no transactions are filled in.
 
-		* **GiftCardsIssued** (gift cards that were given out by the merchant.)
-		* **GiftCardsSold** (gift cards that were bought.)
-		* **GiftCardsDisabled** (gift cards that are past the disabled_at date.)
-		* **GiftCardsRefunded** (orders that were purchased by gift cards but then refunded for any reason.)
-		* **GiftCardsRedeemed** (orders that were purchased by gift cards.)
+        * **GiftCardsIssued** (gift cards that were given out by the merchant.)
+        * **GiftCardsSold** (gift cards that were bought.)
+        * **GiftCardsDisabled** (gift cards that are past the disabled_at date.)
+        * **GiftCardsRefunded** (orders that were purchased by gift cards but then refunded for any reason.)
+        * **GiftCardsRedeemed** (orders that were purchased by gift cards.)
 
 	Tests have been added for the new stages, as well as the full pipeline.
+    
+#### Monday April 10, 2017
+* **Goals**:
+	* Inventory history.
+	* Migrate gift cards.
+	* gift cards documentations.
+	* Gift cards on shopify core.
+* **Accomplishments**:
+* **Feedback**:
+	1. Catch up with people, it is more personal than just talking to someone on facebook. Get more friends Eric.
+	2. Spark SQL at Shopify:
+		* [daily_partner_accumulating_facts_builder_v2](https://github.com/Shopify/starscream/blob/master/shopify/facts/daily_partner_accumulating_facts_builder_v2.py#L62)  
+		![alt text](https://raw.githubusercontent.com/ericxiao251/Notes/master/Journals/Spark%20SQL.png?token=AJTnLrZFqTHGpkPKz9iwK7lQE5XoQ_20ks5Y9ijBwA%3D%3D "Slack discussion")
