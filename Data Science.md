@@ -18,12 +18,12 @@
 5. Data Mining:
 * [scrapy](https://docs.scrapy.org/en/latest/topics/api.html)
 - - -
-**Courses**
-~~[Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/info)~~  
+**Courses**  
+~~[Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/info)~~:  
 Stanford course based on **[An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)**.  
 A great introduction to basic machine learning models.
 
-[Deep Learning for NLP](http://cs224d.stanford.edu/)
+[Deep Learning for NLP](http://cs224d.stanford.edu/):  
 - - -
 **Books**
 1. ~~Python for Data Analysis~~ by **Wes McKinney**
