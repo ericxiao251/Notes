@@ -46,3 +46,4 @@ This PR creates a new model, **gift_card_transactions__daily_rollup**, which uni
 		![alt text](https://raw.githubusercontent.com/ericxiao251/Notes/master/Journals/Spark%20SQL.png?token=AJTnLrZFqTHGpkPKz9iwK7lQE5XoQ_20ks5Y9ijBwA%3D%3D "Slack discussion")  
 	3. [online store page views](https://github.com/Shopify/starscream/tree/a97197315385fd128482b4fc9178f1b7a407fe42/shopify/views/reportify/online_store)
     Great example of big data usage with incremental jobs.
+    4. Look at spark files for how to work with adding/deleting columns from input contract.
