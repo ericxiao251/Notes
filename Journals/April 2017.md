@@ -32,7 +32,7 @@ This PR creates a new model, **gift_card_transactions__daily_rollup**, which uni
 
 	Tests have been added for the new stages, as well as the full pipeline.
     
-#### Monday April 10, 2017
+#### Tuesday April 11, 2017
 * **Goals**:
 	* Inventory history.
 	* Migrate gift cards.
@@ -47,3 +47,15 @@ This PR creates a new model, **gift_card_transactions__daily_rollup**, which uni
 	3. [online store page views](https://github.com/Shopify/starscream/tree/a97197315385fd128482b4fc9178f1b7a407fe42/shopify/views/reportify/online_store)
     Great example of big data usage with incremental jobs.
     4. Look at spark files for how to work with adding/deleting columns from input contract.
+
+#### Wednesday April 12, 2017
+* **Goals**:
+	* Back burners:
+		* Migrate gift cards.
+		* gift cards documentations.
+    * Current:
+	    * Work on online store model in MDW.
+* **Accomplishments**:
+* **Feedback**:
+	1. When a scala function is not found run `cd scala && sbt assembly`. This will build the new functions from the last time you've ran it.
+
