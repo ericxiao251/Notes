@@ -54,8 +54,20 @@ This PR creates a new model, **gift_card_transactions__daily_rollup**, which uni
 		* Migrate gift cards.
 		* gift cards documentations.
     * Current:
-	    * Work on online store model in MDW.
+	    * ~~Work on online store model in MDW.~~
 * **Accomplishments**:
 * **Feedback**:
 	1. When a scala function is not found run `cd scala && sbt assembly`. This will build the new functions from the last time you've ran it.
 
+#### Thrusday April 13, 2017
+* **Goals**:
+	* Back burners:
+		* Migrate gift cards from MDW to Reportify.
+		* Inventory reconciliation tool.
+    * Current:
+		* Gift cards documentations.  
+		  Use these previous documentations as reference:
+          1. [PR](https://github.com/Shopify/documentation/pull/9442)
+          2. [Google Docs](https://docs.google.com/document/d/1RntG8DNeVjvAGeK1cOQgXy9kfjeksISWyRdRPaDoWy4/edit)
+	    * Online store cart --> [PR](https://github.com/Shopify/starscream/pull/17037)  
+          Use that spicy contract addition/subtraction in **[online store page views](https://github.com/Shopify/starscream/tree/a97197315385fd128482b4fc9178f1b7a407fe42/shopify/views/reportify/online_store)**
