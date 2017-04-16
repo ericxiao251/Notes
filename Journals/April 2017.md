@@ -71,3 +71,17 @@ This PR creates a new model, **gift_card_transactions__daily_rollup**, which uni
           2. [Google Docs](https://docs.google.com/document/d/1RntG8DNeVjvAGeK1cOQgXy9kfjeksISWyRdRPaDoWy4/edit)
 	    * Online store cart --> [PR](https://github.com/Shopify/starscream/pull/17037)  
           Use that spicy contract addition/subtraction in **[online store page views](https://github.com/Shopify/starscream/tree/a97197315385fd128482b4fc9178f1b7a407fe42/shopify/views/reportify/online_store)**
+
+#### Friday April 14, 2017
+* **Goals**:
+	* ~~Read Mining the Social Media - Chapter 1.~~
+	* Create a twitter API.
+* **Feedback**:
+	* How to write a restful API [link](https://www.quora.com/What-is-a-good-Python-framework-for-building-a-RESTful-API)
+
+#### Saturday April 15, 2017
+* **Goals**:
+	* Work on Chapter 1.
+
+#### Sunday April 16, 2017
+How to procrastinate.
