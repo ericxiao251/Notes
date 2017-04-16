@@ -43,7 +43,7 @@ This PR creates a new model, **gift_card_transactions__daily_rollup**, which uni
 	1. Catch up with people, it is more personal than just talking to someone on facebook. Get more friends Eric.
 	2. Spark SQL at Shopify:
 		* [daily_partner_accumulating_facts_builder_v2](https://github.com/Shopify/starscream/blob/master/shopify/facts/daily_partner_accumulating_facts_builder_v2.py#L62)  
-		![alt text](https://raw.githubusercontent.com/ericxiao251/Notes/master/Journals/Spark%20SQL.png?token=AJTnLrZFqTHGpkPKz9iwK7lQE5XoQ_20ks5Y9ijBwA%3D%3D "Slack discussion")  
+		![alt text](https://raw.githubusercontent.com/ericxiao251/Python-Sugar/master/Spark%20Sugar/Spark%20SQL.png?token=AJTnLrQkCgPpUxr8HFn3ILRBTErale1Oks5Y-C-1wA%3D%3D "Slack discussion")  
 	3. [online store page views](https://github.com/Shopify/starscream/tree/a97197315385fd128482b4fc9178f1b7a407fe42/shopify/views/reportify/online_store)
     Great example of big data usage with incremental jobs.
     4. Look at spark files for how to work with adding/deleting columns from input contract.
