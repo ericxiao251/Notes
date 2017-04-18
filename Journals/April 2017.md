@@ -57,7 +57,9 @@ This PR creates a new model, **gift_card_transactions__daily_rollup**, which uni
 	    * ~~Work on online store model in MDW.~~
 * **Accomplishments**:
 * **Feedback**:
-	1. When a scala function is not found run `cd scala && sbt assembly`. This will build the new functions from the last time you've ran it.
+	1. When a `scala function not found` or `JavaPackage`:
+    	* run `cd scala && sbt assembly`.
+        * you will need to build the scala functions if any new ones are added.
 
 #### Thrusday April 13, 2017
 * **Goals**:
