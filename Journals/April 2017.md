@@ -87,3 +87,13 @@ This PR creates a new model, **gift_card_transactions__daily_rollup**, which uni
 
 #### Sunday April 16, 2017
 How to procrastinate.
+
+#### Sunday April 16, 2017
+* **Goals**:
+	* Look at NLP --> [spaCy](https://github.com/explosion/spaCy)
+	* Finish looking at online store pageviews.
+	* Transfer all of Spark and Python sugar to notebooks.
+* **Accomplishments**:
+	* Understanding Python a lot more.
+* **Backlog**:
+	* What is **Multiple Inheritance** in Python? 
