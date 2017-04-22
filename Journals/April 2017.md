@@ -98,3 +98,11 @@ How to procrastinate.
 * **Backlog**:
 	* What is **Multiple Inheritance** in Python? 
 	* How do you put stuff in the env in Spark, how does this work?
+
+#### Saturday April 22, 2017
+* **Goals**:
+	* Resume projects:
+		* Work through spaCy NLP and Yelp data --> [link](http://nbviewer.jupyter.org/github/skipgram/modern-nlp-in-python/blob/master/executable/Modern_NLP_in_Python.ipynb)
+		* Find Big Data University's R cusine classifier.
+		* Finish Twitter API data.
+    * PyData conference, look through those examples.
