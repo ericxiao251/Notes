@@ -105,4 +105,4 @@ How to procrastinate.
 		* Work through spaCy NLP and Yelp data --> [link](http://nbviewer.jupyter.org/github/skipgram/modern-nlp-in-python/blob/master/executable/Modern_NLP_in_Python.ipynb)
 		* Find Big Data University's R cusine classifier.
 		* Finish Twitter API data.
-    * PyData conference, look through those examples.
+    * PyData conference, look through those examples --> [link](https://pydata.org/dc2016/schedule/)

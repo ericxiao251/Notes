@@ -1,8 +1,9 @@
 # Data Science
-- - -
+---
 **Topics**:
 1. Big Data:
 * ~~[PySpark](http://spark.apache.org/docs/2.0.0/api/python/pyspark.sql.html)~~
+* ~~[Dask](http://dask.pydata.org/en/latest/)~~
 * [Cassandra]()
 * [Kafka]()
 2. Data Analysis:
@@ -18,7 +19,17 @@
 6. Natural Learning Processing:
 * [scrapy](https://docs.scrapy.org/en/latest/topics/api.html)
 * [nltk](http://www.nltk.org/api/nltk.html)
-- - -
+
+---
+**Good Resources**
+* Conferences:
+	* [PyData DC 2016](https://pydata.org/dc2016/schedule/)
+* Meetups:
+	* [Big Data University]()
+* Books: look below
+* Courses: look below
+
+---
 **One-off Tutorials**  
 * scraPy, NLP data analysis cycle --> [link](http://nbviewer.jupyter.org/github/skipgram/modern-nlp-in-python/blob/master/executable/Modern_NLP_in_Python.ipynb)
 - - -
