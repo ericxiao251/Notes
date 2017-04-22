@@ -15,8 +15,12 @@
 4. Machine Learning:
 * [sciPy](http://scikit-learn.org/stable/modules/classes.html)
 * [scikit-learn](http://scikit-learn.org/stable/modules/classes.html)
-5. Data Mining:
+6. Natural Learning Processing:
 * [scrapy](https://docs.scrapy.org/en/latest/topics/api.html)
+* [nltk](http://www.nltk.org/api/nltk.html)
+- - -
+**One-off Tutorials**  
+* scraPy, NLP data analysis cycle --> [link](http://nbviewer.jupyter.org/github/skipgram/modern-nlp-in-python/blob/master/executable/Modern_NLP_in_Python.ipynb)
 - - -
 **Courses**  
 ~~[Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/info)~~:  
@@ -28,10 +32,11 @@ A great introduction to basic machine learning models.
 **Books**
 1. ~~Python for Data Analysis~~ by **Wes McKinney**
 2. The Data Warehouse Toolkit - The Complete Guide to Dimensional Modelling by **Ralph Kimball**
-3. Deep Learning by **Ian Goodfellow, Yoshua Bengio, Aaron Courville**
-4. ~~Learning Spark Lightning - Fast Big Data Analysis~~ by **Hodlen Karau, Andy Konwinski, Patrick Wendell & Matei Zaharia**
-5. Advanced Analytics with Spark - Patterns for Learning from Data at Scale by **Sandy Ryza, Uri Laserson, Sean Owen & Josh Wills**
-6. ~~An Introduction to Statistical Learning - With Applications in R~~ by **Gareth James, Daniela Witten, Trevor Hastie & Robert Tibshirani**
+3. ~~Learning Spark Lightning - Fast Big Data Analysis~~ by **Hodlen Karau, Andy Konwinski, Patrick Wendell & Matei Zaharia**
+4. Advanced Analytics with Spark - Patterns for Learning from Data at Scale by **Sandy Ryza, Uri Laserson, Sean Owen & Josh Wills**
+5. ~~An Introduction to Statistical Learning - With Applications in R~~ by **Gareth James, Daniela Witten, Trevor Hastie & Robert Tibshirani**
+6. Deep Learning by **Ian Goodfellow, Yoshua Bengio, Aaron Courville**
+7. Speech and Language Processing, 2nd Edition by **Daniel Jurafsky **
 - - -
 **Current Reads**
 * [The Hitchhiker's Guide to Python: Best Practices for Development](https://www.amazon.ca/gp/product/1491933178/ref=ox_sc_act_title_1?smid=A3DWYIK6Y9EEQB&psc=1)
