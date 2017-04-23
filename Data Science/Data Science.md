@@ -23,7 +23,7 @@
 ---
 **Good Resources**
 * Conferences:
-	* [PyData DC 2016](https://pydata.org/dc2016/schedule/)
+	* [PyData](https://pydata.org/index.html)
 * Meetups:
 	* [Big Data University]()
 * Books: look below
