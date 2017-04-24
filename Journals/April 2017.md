@@ -106,3 +106,9 @@ How to procrastinate.
 		* Find Big Data University's R cusine classifier.
 		* Finish Twitter API data.
     * PyData conference, look through those examples --> [link](https://pydata.org/dc2016/schedule/)
+
+
+#### Monday April 24, 2017
+* **Backlog**:
+	* Why are you so sloppy?
+	* When you learning ML, concepts are clear, but library functionality are not. Not sure what this library can and can't do.
