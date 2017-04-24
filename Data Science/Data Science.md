@@ -8,6 +8,7 @@
 * [Kafka]()
 2. Data Analysis:
 * ~~[pandas](http://pandas.pydata.org/pandas-docs/stable/api.html)~~
+* ~~[numPy](https://docs.scipy.org/doc/numpy/reference/)~~
 3. Ploting:
 * [bokeh](http://bokeh.pydata.org/en/latest/docs/reference.html#refguide)
 * ~~[matplotlib](http://matplotlib.org/contents.html)~~
@@ -19,6 +20,8 @@
 6. Natural Learning Processing:
 * [scrapy](https://docs.scrapy.org/en/latest/topics/api.html)
 * [nltk](http://www.nltk.org/api/nltk.html)
+7. Deep Learning:
+* [TensorFlow](https://www.tensorflow.org/api_docs/python/)
 
 ---
 **Good Resources**
