@@ -52,13 +52,26 @@ A great introduction to basic machine learning models.
 6. Deep Learning by **Ian Goodfellow, Yoshua Bengio, Aaron Courville**
 7. Speech and Language Processing, 2nd Edition by **Daniel Jurafsky **
 - - -
-**Current Reads**
+#### These books are more application driven
+They go through examples with the library itself. More hands on experience.
+**Current Reads**  
+Data Science:  
 * [The Hitchhiker's Guide to Python: Best Practices for Development](https://www.amazon.ca/gp/product/1491933178/ref=ox_sc_act_title_1?smid=A3DWYIK6Y9EEQB&psc=1)
+* [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+* [Data Science from Scratch](https://www.amazon.ca/Data-Science-Scratch-Principles-Python/dp/149190142X/ref=sr_1_1?ie=UTF8&qid=1491797853&sr=8-1&keywords=Data+Science+from+Scratch++-+First+Principles+with+Python+-+Joel+Grus)
+
+NLP:  
+* [Natural Language Processing with Python](https://www.amazon.ca/Natural-Language-Processing-Python-Analyzing/dp/0596516495/ref=sr_1_1?s=books&ie=UTF8&qid=1491797973&sr=1-1&keywords=Natural+Language+Processing+with+Python+-+Steven+Bird%2C+Ewan+Klein+%26+Edward+Loper)
+
+**Backlog**  
+Spark/Big Data:  
 * [Learning Spark Streaming: Best Practices for Scaling and Optimizing Apache Spark](https://www.amazon.ca/gp/product/1491944242/ref=ox_sc_act_title_2?smid=A3DWYIK6Y9EEQB&psc=1)
 * [Scala for Spark in Production: Fast distributed computing in the enterprise](https://www.amazon.ca/gp/product/1491929286/ref=ox_sc_act_title_3?smid=A3DWYIK6Y9EEQB&psc=1)
-* [Cassandra: The Definitive Guide: Distributed Data at Web Scale](https://www.amazon.ca/gp/product/1491933666/ref=ox_sc_act_title_4?smid=A3DWYIK6Y9EEQB&psc=1)
 * [Python for Finance: Analyze Big Financial Data](https://www.amazon.ca/gp/product/1491945281/ref=ox_sc_act_title_5?smid=A3DWYIK6Y9EEQB&psc=1)
+
+Cassandra:  
+* [Cassandra: The Definitive Guide: Distributed Data at Web Scale](https://www.amazon.ca/gp/product/1491933666/ref=ox_sc_act_title_4?smid=A3DWYIK6Y9EEQB&psc=1)
+
+Data Mining:  
 * [Mining the Social Web: Data Mining Facebook, Twitter, LinkedIn, Google+, GitHub, and More](https://www.amazon.ca/gp/product/1449367615/ref=ox_sc_act_title_6?smid=A3DWYIK6Y9EEQB&psc=1)
-* [Data Science from Scratch](https://www.amazon.ca/Data-Science-Scratch-Principles-Python/dp/149190142X/ref=sr_1_1?ie=UTF8&qid=1491797853&sr=8-1&keywords=Data+Science+from+Scratch++-+First+Principles+with+Python+-+Joel+Grus)
-* [Natural Language Processing with Python](https://www.amazon.ca/Natural-Language-Processing-Python-Analyzing/dp/0596516495/ref=sr_1_1?s=books&ie=UTF8&qid=1491797973&sr=1-1&keywords=Natural+Language+Processing+with+Python+-+Steven+Bird%2C+Ewan+Klein+%26+Edward+Loper)
 * [Web Scraping with Python - Collecting Data from the Modern Web](https://www.amazon.ca/Web-Scraping-Python-Collecting-Modern/dp/1491910291)
