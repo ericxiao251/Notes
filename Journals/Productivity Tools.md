@@ -11,7 +11,8 @@
 	Much more features added to the basic command line. Includes a lot of helpers for github.
 5. [iTerm](https://www.iterm2.com):  
 	A much better terminal with a lot more features.  
-    Key bindings to match other text editors:  
+    Key bindings to match other text editors:
+
     |FOR  |ACTION        |SEND|
 	|-----|--------------|----|
 	|⌘←   |"HEX CODE"    |0x01|
