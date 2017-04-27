@@ -107,8 +107,14 @@ How to procrastinate.
 		* Finish Twitter API data.
     * PyData conference, look through those examples --> [link](https://pydata.org/dc2016/schedule/)
 
-
 #### Monday April 24, 2017
 * **Backlog**:
 	* Why are you so sloppy?
 	* When you learning ML, concepts are clear, but library functionality are not. Not sure what this library can and can't do.
+
+#### Thrusday April 27, 2017
+* **Checklist**:
+	1. fix generated schedule file
+	2. ship `online_store_pageviews` docs
+	3. edit `online_store_cart_additions` docs —> ship
+	4. edit `online_store_cart_additions` code —> ship
