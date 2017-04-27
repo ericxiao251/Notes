@@ -10,6 +10,14 @@
 4. [oh my zsh](https://github.com/robbyrussell/oh-my-zsh):  
 	Much more features added to the basic command line. Includes a lot of helpers for github.
 5. [iTerm](https://www.iterm2.com):  
-	A much better terminal with a lot more features.
+	A much better terminal with a lot more features.  
+    Key bindings to match other text editors:  
+    |FOR  |ACTION        |SEND|
+	|-----|--------------|----|
+	|⌘←   |"HEX CODE"    |0x01|
+    |⌘→   |"HEX CODE"    |0x05|
+    |⌥←   |"SEND ESC SEQ"|b   |
+    |⌥→   |"SEND ESC SEQ"|f   |
+
 6. [Spectacles](https://www.spectacleapp.com):  
 	Makes resizing windows faster and more efficient.
