@@ -118,3 +118,5 @@ How to procrastinate.
 	2. ship `online_store_pageviews` docs
 	3. edit `online_store_cart_additions` docs —> ship
 	4. edit `online_store_cart_additions` code —> ship
+* **Feedback**:
+	* `git commit --amend --reuse-message=HEAD` this adds any changes to your previous commit.
