@@ -42,6 +42,9 @@ Stanford course based on **[An Introduction to Statistical Learning](http://www-
 A great introduction to basic machine learning models.
 
 [Deep Learning for NLP](http://cs224d.stanford.edu/):  
+
+[Deep Learning](http://course.fast.ai/lessons/lessons.html):  
+Loads and loads of hands on learning. Ex-Kaggler teaches you how to win kaggle competitions.
 - - -
 **Books**
 1. ~~Python for Data Analysis~~ by **Wes McKinney**
