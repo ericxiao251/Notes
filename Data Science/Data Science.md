@@ -22,6 +22,8 @@
 * [nltk](http://www.nltk.org/api/nltk.html)
 7. Deep Learning:
 * [TensorFlow](https://www.tensorflow.org/api_docs/python/)
+* [Theano](http://deeplearning.net/software/theano/library/index.html)
+* [Keeras](https://keras.io)
 
 ---
 **Good Resources**
