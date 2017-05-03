@@ -22,3 +22,13 @@
 
 6. [Spectacles](https://www.spectacleapp.com):  
 	Makes resizing windows faster and more efficient.
+7. Keyboard shortcuts:
+    |FOR  |ACTION                      |
+	|------|---------------------------|
+	|⌘D   |Selects highlighted word   |
+    |⌘→   |Goes to end of the line    |
+    |⌘←   |Goes to start of the line  |
+    |⌥→   |Goes to end of next word   |
+    |⌥←   |Goes to start of next word |
+    |^⌘↑  |Moves selected lines up    |
+    |^⌘↓  |Moves selected lines down  |
