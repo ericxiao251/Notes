@@ -43,6 +43,7 @@
 * scraPy, NLP data analysis cycle --> [link](http://nbviewer.jupyter.org/github/skipgram/modern-nlp-in-python/blob/master/executable/Modern_NLP_in_Python.ipynb)
 * keras --> [link](https://blog.keras.io/using-pre-trained-word-embeddings-in-a-keras-model.html)
 * Full end-to-end pipline for NLP + DL for kaggle competition --> [link](https://www.linkedin.com/pulse/duplicate-quora-question-abhishek-thakur)
+* Combining models for "state of the art" models --> [link](https://mlwave.com/kaggle-ensembling-guide/)
 - - -
 **Courses**  
 ~~[Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/info)~~:  
