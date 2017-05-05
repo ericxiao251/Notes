@@ -50,6 +50,8 @@
 Stanford course based on **[An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)**.  
 A great introduction to basic machine learning models.
 
+[Mining of Massive Data Sets](http://mmds.org)
+
 [Deep Learning for NLP](http://cs224d.stanford.edu/):  
 
 [Deep Learning](http://course.fast.ai/lessons/lessons.html):  
