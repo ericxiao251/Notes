@@ -46,13 +46,12 @@
 * Combining models for "state of the art" models --> [link](https://mlwave.com/kaggle-ensembling-guide/)
 - - -
 **Courses**  
-~~[Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/info)~~:  
-Stanford course based on **[An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)**.  
+Just go to stanford lol.  
+~~[Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/info)~~:   
 A great introduction to basic machine learning models.
-
-[Mining of Massive Data Sets](http://mmds.org)
-
-[Deep Learning for NLP](http://cs224d.stanford.edu/):  
+CS246 --> [Mining of Massive Data Sets](http://mmds.org)
+CS224n --> [Deep Learning for NLP](http://cs224d.stanford.edu/)
+CS231n --> [Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io)
 
 [Deep Learning](http://course.fast.ai/lessons/lessons.html):  
 Loads and loads of hands on learning. Ex-Kaggler teaches you how to win kaggle competitions.
