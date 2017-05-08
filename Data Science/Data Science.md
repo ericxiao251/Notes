@@ -39,15 +39,29 @@
 * Learning Deep Learning with Keras --> [link](http://p.migdal.pl/2017/04/30/teaching-deep-learning.html)
 
 ---
+**Cloud platforms**
+* [Microsoft Azure Notebooks](https://notebooks.azure.com)
+* [Google Cloud](https://console.cloud.google.com/)
+* [AWS](https://aws.amazon.com/)
+
+---
 **One-off Tutorials**  
 * scraPy, NLP data analysis cycle --> [link](http://nbviewer.jupyter.org/github/skipgram/modern-nlp-in-python/blob/master/executable/Modern_NLP_in_Python.ipynb)
 * keras --> [link](https://blog.keras.io/using-pre-trained-word-embeddings-in-a-keras-model.html)
 * Full end-to-end pipline for NLP + DL for kaggle competition --> [link](https://www.linkedin.com/pulse/duplicate-quora-question-abhishek-thakur)
 * Combining models for "state of the art" models --> [link](https://mlwave.com/kaggle-ensembling-guide/)
-- - -
+---
+
+---
 **Courses**  
 Just go to stanford lol.  
-~~[Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/info)~~:   
+[Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/info):
+- [x] Has book written by professor of the course.
+- [x] Has lecture videos.
+- [x] Has labs.
+
+[CS124 From Languages to Information](http://web.stanford.edu/class/cs124/):
+
 A great introduction to basic machine learning models.
 CS246 --> [Mining of Massive Data Sets](http://mmds.org)
 CS224n --> [Deep Learning for NLP](http://cs224d.stanford.edu/)
@@ -55,7 +69,7 @@ CS231n --> [Convolutional Neural Networks for Visual Recognition](http://cs231n.
 
 [Deep Learning](http://course.fast.ai/lessons/lessons.html):  
 Loads and loads of hands on learning. Ex-Kaggler teaches you how to win kaggle competitions.
-- - -
+---
 **Books**
 1. ~~Python for Data Analysis~~ by **Wes McKinney**
 2. The Data Warehouse Toolkit - The Complete Guide to Dimensional Modelling by **Ralph Kimball**
@@ -64,7 +78,7 @@ Loads and loads of hands on learning. Ex-Kaggler teaches you how to win kaggle c
 5. ~~An Introduction to Statistical Learning - With Applications in R~~ by **Gareth James, Daniela Witten, Trevor Hastie & Robert Tibshirani**
 6. Deep Learning by **Ian Goodfellow, Yoshua Bengio, Aaron Courville**
 7. Speech and Language Processing, 2nd Edition by **Daniel Jurafsky **
-- - -
+---
 #### These books are more application driven
 They go through examples with the library itself. More hands on experience.
 **Current Reads**  
