@@ -2,28 +2,30 @@
 ---
 **Topics**:
 1. Big Data:
-* ~~[PySpark](http://spark.apache.org/docs/2.0.0/api/python/pyspark.sql.html)~~
-* ~~[Dask](http://dask.pydata.org/en/latest/)~~
-* [Cassandra]()
-* [Kafka]()
+    * ~~[PySpark](http://spark.apache.org/docs/2.0.0/api/python/pyspark.sql.html)~~
+    * ~~[Dask](http://dask.pydata.org/en/latest/)~~
+    * [Cassandra]()
+    * [Kafka]()
 2. Data Analysis:
-* ~~[pandas](http://pandas.pydata.org/pandas-docs/stable/api.html)~~
-* ~~[numPy](https://docs.scipy.org/doc/numpy/reference/)~~
+    * ~~[pandas](http://pandas.pydata.org/pandas-docs/stable/api.html)~~
+    * ~~[numPy](https://docs.scipy.org/doc/numpy/reference/)~~
 3. Ploting:
-* [bokeh](http://bokeh.pydata.org/en/latest/docs/reference.html#refguide)
-* ~~[matplotlib](http://matplotlib.org/contents.html)~~
-* [seaborn](https://seaborn.pydata.org/api.html)
-* [ploty](https://plot.ly/python/reference/)
+    * [bokeh](http://bokeh.pydata.org/en/latest/docs/reference.html#refguide)
+    * ~~[matplotlib](http://matplotlib.org/contents.html)~~
+    * [seaborn](https://seaborn.pydata.org/api.html)
+    * [ploty](https://plot.ly/python/reference/)
 4. Machine Learning:
-* [sciPy](http://scikit-learn.org/stable/modules/classes.html)
-* [scikit-learn](http://scikit-learn.org/stable/modules/classes.html)
+    * [sciPy](http://scikit-learn.org/stable/modules/classes.html)
+    * [scikit-learn](http://scikit-learn.org/stable/modules/classes.html)
 6. Natural Learning Processing:
-* [scrapy](https://docs.scrapy.org/en/latest/topics/api.html)
-* [nltk](http://www.nltk.org/api/nltk.html)
+    * [scrapy](https://docs.scrapy.org/en/latest/topics/api.html)
+    * [nltk](http://www.nltk.org/api/nltk.html)
 7. Deep Learning:
-* [TensorFlow](https://www.tensorflow.org/api_docs/python/)
-* [Theano](http://deeplearning.net/software/theano/library/index.html)
-* [Keeras](https://keras.io)
+    * [TensorFlow](https://www.tensorflow.org/api_docs/python/)
+    * [Theano](http://deeplearning.net/software/theano/library/index.html)
+    * [Keeras](https://keras.io)
+8. Linear Algebra:
+	* [Introduction to Linear Algebra](http://math.mit.edu/~gs/linearalgebra/)
 ---
 **Good Resources**
 * Conferences:
