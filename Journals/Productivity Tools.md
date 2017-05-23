@@ -23,6 +23,7 @@
 6. [Spectacles](https://www.spectacleapp.com):  
 	Makes resizing windows faster and more efficient.
 7. Keyboard shortcuts:
+
     |FOR  |ACTION                      |
 	|------|---------------------------|
 	|⌘D   |Selects highlighted word   |
