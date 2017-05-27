@@ -53,8 +53,6 @@
 * Full end-to-end pipline for NLP + DL for kaggle competition --> [link](https://www.linkedin.com/pulse/duplicate-quora-question-abhishek-thakur)
 * Combining models for "state of the art" models --> [link](https://mlwave.com/kaggle-ensembling-guide/)
 ---
-
----
 **Courses**  
 Just go to stanford lol.  
 [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/info):
@@ -62,15 +60,16 @@ Just go to stanford lol.
 - [x] Has lecture videos.
 - [x] Has labs.
 
-[CS124 From Languages to Information](http://web.stanford.edu/class/cs124/):
-
+[CS124 From Languages to Information](http://web.stanford.edu/class/cs124/):  
 A great introduction to basic machine learning models.
+
 CS246 --> [Mining of Massive Data Sets](http://mmds.org)
 CS224n --> [Deep Learning for NLP](http://cs224d.stanford.edu/)
 CS231n --> [Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io)
-
+CS20Sl --> [Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/)
 [Deep Learning](http://course.fast.ai/lessons/lessons.html):  
 Loads and loads of hands on learning. Ex-Kaggler teaches you how to win kaggle competitions.
+
 ---
 **Books**
 1. ~~Python for Data Analysis~~ by **Wes McKinney**
