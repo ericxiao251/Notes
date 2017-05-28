@@ -5,6 +5,10 @@
 2. [Atom](https://atom.io):  
 	Best text editor out there.
     * good pacakges:
+		* markdown previewer -> [link](https://atom.io/packages/markdown-preview-plus)
+		* file icons -> [link](https://atom.io/packages/file-icons)
+		* minimap [link](https://atom.io/packages/minimap)
+		* highlight select -> [link](https://atom.io/packages/highlight-selected)
 3. [VSCode](https://code.visualstudio.com/docs/?dv=osx):
 	very nice IDE.
 4. [oh my zsh](https://github.com/robbyrussell/oh-my-zsh):  
