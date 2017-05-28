@@ -14,8 +14,8 @@
     Key bindings to match other text editors:
 
     |FOR  |ACTION        |SEND|
-	|-----|--------------|----|
-	|⌘←   |"HEX CODE"    |0x01|
+	  |-----|--------------|----|
+	  |⌘←   |"HEX CODE"    |0x01|
     |⌘→   |"HEX CODE"    |0x05|
     |⌥←   |"SEND ESC SEQ"|b   |
     |⌥→   |"SEND ESC SEQ"|f   |
@@ -25,8 +25,8 @@
 7. Keyboard shortcuts:
 
     |FOR  |ACTION                      |
-	|------|---------------------------|
-	|⌘D   |Selects highlighted word   |
+	  |------|---------------------------|
+	  |⌘D   |Selects highlighted word   |
     |⌘→   |Goes to end of the line    |
     |⌘←   |Goes to start of the line  |
     |⌥→   |Goes to end of next word   |
