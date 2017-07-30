@@ -7,9 +7,8 @@
 		* file icons -> [link](https://atom.io/packages/file-icons)
 		* minimap [link](https://atom.io/packages/minimap)
 		* highlight select -> [link](https://atom.io/packages/highlight-selected)
-2. [VSCode](https://code.visualstudio.com/docs/?dv=osx):
-	very nice IDE.
-3. [oh my zsh](https://github.com/robbyrussell/oh-my-zsh):  
+		* script --> [link](https://atom.io/packages/script)
+2. [oh my zsh](https://github.com/robbyrussell/oh-my-zsh):  
 	Much more features added to the basic command line. Includes a lot of helpers for github.
 
 #### Legend
