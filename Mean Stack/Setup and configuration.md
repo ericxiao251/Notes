@@ -23,6 +23,8 @@
         * use React library to describe our user interfaces.
       * `reactdom`:
         * use ReactDOM library to render those user interfaces on both the frontend and the backend.
+      * `ejs`:
+        * dynamic template language, short for embedded JavaScript.
 
     Tools:
       * `webpack`:
