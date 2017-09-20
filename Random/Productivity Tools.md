@@ -8,8 +8,26 @@
 		* minimap [link](https://atom.io/packages/minimap)
 		* highlight select -> [link](https://atom.io/packages/highlight-selected)
 		* script --> [link](https://atom.io/packages/script)
-2. [oh my zsh](https://github.com/robbyrussell/oh-my-zsh):  
+
+## Terminal
+
+* [oh my zsh](https://github.com/robbyrussell/oh-my-zsh):  
 	Much more features added to the basic command line. Includes a lot of helpers for github.
+* [iTerm](https://www.iterm2.com):  
+	A much better terminal with a lot more features.  
+  Key bindings to match other text editors:
+
+	|FOR  |ACTION        |SEND|
+	|-----|--------------|----|
+	|⌘←   |"HEX CODE"    |0x01|
+	|⌘→   |"HEX CODE"    |0x05|
+	|⌥←   |"SEND ESC SEQ"|b   |
+	|⌥→   |"SEND ESC SEQ"|f   |
+* [tmate](https://tmate.io/)
+	SSH into other people's terminal windows.
+* [tmux](https://gist.github.com/henrik/1967800)  
+	* Simulate having multiple windows opened.
+	* Lets you run terminal windows after closing.
 
 #### Legend
 
@@ -19,17 +37,6 @@
 |⌥|Option			|
 |^|Control		|
 |⇧|Shift			|
-
-4. [iTerm](https://www.iterm2.com):  
-	A much better terminal with a lot more features.  
-    Key bindings to match other text editors:
-
-	|FOR  |ACTION        |SEND|
-	|-----|--------------|----|
-	|⌘←   |"HEX CODE"    |0x01|
-	|⌘→   |"HEX CODE"    |0x05|
-	|⌥←   |"SEND ESC SEQ"|b   |
-	|⌥→   |"SEND ESC SEQ"|f   |
 
 5. [Spectacles](https://www.spectacleapp.com):  
 	Makes resizing windows faster and more efficient.
@@ -55,7 +62,7 @@
 	|^⌘↑  |Moves selected lines up     |
 	|^⌘↓  |Moves selected lines down   |
 
-7. Chrome
+## Chrome
 
 * [The great suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg/related?hl=en)  
 	Suspends all unused chrome tabs.
