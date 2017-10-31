@@ -36,3 +36,16 @@ install mysql, redis.
     * This also inserts into the database.
 5. run `flushall`.
     * to clear redis database and to delete all the queued jobs.
+
+---
+# MySQL Setup
+1. Download MySQL Community Edition (GPL) [link](https://dev.mysql.com/downloads/mysql/).
+2. Change the temporary password:  
+Open the MySQL terminal.
+```bash
+mysql -u root -h 127.0.0.1 -p
+```
+Change the temporary password:
+```sql
+ALTER USER 'root'@'localhost' IDENTIFIED BY 'new-password';
+```
