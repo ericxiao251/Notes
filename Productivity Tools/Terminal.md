@@ -1,7 +1,12 @@
 ## Terminal
 
 * [oh my zsh](https://github.com/robbyrussell/oh-my-zsh):  
-	Much more features added to the basic command line. Includes a lot of helpers for github.
+  * Much more features added to the basic command line. Includes a lot of helpers for github.
+  * Plugins:
+    * `zsh-autosuggestions`
+    * `zsh-syntax-highlighting`
+	
+	
 * [iTerm](https://www.iterm2.com):  
 	A much better terminal with a lot more features.  
   Key bindings to match other text editors:
